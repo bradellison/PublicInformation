@@ -3,7 +3,7 @@ Privacy Policy for Wingflight
 At Wingflight, we are committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and disclose information about users of our app, and complies with the General Data Protection Regulation (GDPR).
 
 Information We Collect
-When you use Wingspan Assistant, you can add your first name or a nickname to your profile. This information is considered personal data under the GDPR. We do not collect any other personal information about you. We do not collect any sensitive information, such as your email address, phone number, or location.
+When you use Wingflight, you can add your first name or a nickname to your profile. This information is considered personal data under the GDPR. We do not collect any other personal information about you. We do not collect any sensitive information, such as your email address, phone number, or location.
 
 Legal Basis for Processing Personal Data
 We collect and process your personal data with your consent, which you provide by accepting this Privacy Policy and agreeing to the processing of your personal data. You have the right to withdraw your consent at any time.
